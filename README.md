@@ -9,7 +9,7 @@ As we mentioned, in this fast-paced world it is often hard to find the time need
 - Rating your favorite workers, on a scale from 1 to 5, while leaving descriptions in their profiles as well.
 - Arranging the workers as desired. (The ones having higher rates at the top, those having lower rates at the bottom,  or price based)
 
-The next level of authentication will be the worker. You can sign up in the app as a worker and by default a profile will be created. Each worker can set up his/her profile by defining the specific skills they are most proficient at. This skills will serve as key words in the searching process performed by the simple users of the app. The workers can add their location if desired, they can include the price for each service they offer (mostly on an hour based). Once a user "books" their services they can choose to accept or not the offer based on their personal or professional reasons.
+The next level of authentication will be the worker. You can sign up in the app as a worker and by default a profile will be created. Each worker can set up his/her profile by defining the specific skills they are most proficient at. These skills will serve as key words in the searching process performed by the simple users of the app. The workers can add their location if desired, they can include the price for each service they offer (mostly on an hour based). Once a user "books" their services they can choose to accept or not the offer based on their personal or professional reasons.
 
 This app will for sure simplify the communication between the users and the workers, while being 100% time-efficient when it comes to fixing any house-related issue.
 
